@@ -1,2 +1,2 @@
-# cocos2d
-1
+# hello-world
+Hello world new project template.
